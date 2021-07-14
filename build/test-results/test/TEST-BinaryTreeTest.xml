@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BinaryTreeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-14T09:42:52" hostname="LAPTOP-S3TL5J3M" time="0.017">
+  <properties/>
+  <testcase name="test001()" classname="BinaryTreeTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
